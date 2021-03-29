@@ -9,7 +9,7 @@ class Courses extends Component {
         courses: [
             {id: 1, title: 'Chemistry'},
             {id: 2, title: 'Biology'},
-            {id: 3, title: 'Physics'}
+            {id: 3, title: 'Maths'}
         ]
     }
     render(){
