@@ -7,8 +7,8 @@ import Course from '../Course/Course'
 class Courses extends Component {
     state ={
         courses: [
-            {id: 1, title: 'Chemistry'},
-            {id: 2, title: 'Biology'},
+            {id: 1, title: 'Geography'},
+            {id: 2, title: 'History'},
             {id: 3, title: 'Maths'}
         ]
     }
